@@ -25,3 +25,9 @@ console.log(capString);
 var abc = "Visit Microsoft!";
 var xyz = abc.replace("Microsoft!", "W3School");
 console.log(xyz);
+
+document.addEventListener("DOMContentLoaded", function() {
+  var button= document.querySelector(".btn");
+
+
+})
